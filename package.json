@@ -7,7 +7,7 @@
     "start": "nodemon ./index.js --exec babel-node -e js",
     "debug": "set DEBUG=express:* & nodemon ./index.js --exec babel-node -e js"
   },
-  "author": "Emmanuel Henri",
+  "author": "Luis Brito",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.2",
